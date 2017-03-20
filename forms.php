@@ -21,8 +21,7 @@
 </form>
 
 <?php 
-$btn=$_POST['btnSend'];
-if(isset($btn)) {
+if(isset($_POST['btnSend'])) {
     $country=$_POST['country'];
     $gender=$_POST['gender'];
     echo 'Hello '.$gender.' from '.$country;
