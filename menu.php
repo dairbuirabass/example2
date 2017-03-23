@@ -19,6 +19,7 @@
     <li><a href="add_customers.php">Add Customers</a></li>
     <li><a href="cats.php">Cats</a></li>
     <li><a href="edit_customers.php">Edit Customers</a></li>
+    <li><a href="delete_several_customers.php">Delete Several Customers</a></li>
     </ul>
     </div>
     <div id="content">

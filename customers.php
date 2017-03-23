@@ -24,7 +24,7 @@ if (isset($_POST['btnDelete'])) {
 <h2>Customers</h2>
 <table border="1">
 <tr>
-    <th>Firstname</th><th>Lastname</th><th>Streetaddress</th><th>Edit</th>
+    <th>Firstname</th><th>Lastname</th><th>Streetaddress</th><th>Edit</th><th>Delete</th>
     </tr>
 <?php
 include "connection.php";
