@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="mystyle.css">
             </head>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+    <script type="text/javascript" src="myFunctions.js"></script>
 
 <body>
 <div id="menu">
